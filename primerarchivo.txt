@@ -1,3 +1,4 @@
 primerarchivo
 Linea segunda Linea
 cuarto commit
+Sexto commit desde la GUI
